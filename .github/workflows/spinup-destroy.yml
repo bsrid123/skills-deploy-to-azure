@@ -11,6 +11,7 @@ env:
   AZURE_LOCATION: '"East US"'
   ###############################################
   ### Replace <username> with GitHub username ###
+  ### Test Run 2 ###
   ###############################################
   AZURE_WEBAPP_NAME: bsrid123-ttt-app
 
