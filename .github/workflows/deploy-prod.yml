@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+      
+permissions:
+  id-token: write
+  contents: read
+  packages: write
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
