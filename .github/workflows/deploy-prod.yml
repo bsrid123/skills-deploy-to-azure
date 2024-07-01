@@ -16,7 +16,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: bsrid123-azure-ttt
-  AZURE_WEBAPP_NAME: bsrid123-ttt-app
+  AZURE_WEBAPP_NAME: bsrid123-tttprod-app
   ###############################################
 
 jobs:
